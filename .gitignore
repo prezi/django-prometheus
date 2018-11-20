@@ -68,6 +68,10 @@ auto-save-list
 tramp
 .\#*
 
+# IDEA
+.idea
+
+
 # Org-mode
 .org-id-locations
 *_archive
